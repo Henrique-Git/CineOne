@@ -1,70 +1,98 @@
-# Getting Started with Create React App
+# CineOne📽️🎞🍿
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Sobre📖
 
-## Available Scripts
+<p align='justify'>Projeto desenvolvido ao fim do curso de Desenvolvimento Web FullStack da Resilia Educação. A proposta do projeto foi o desenvolvimento de um site acerca de um determinado tema, no caso, Cinema, utilizando dos conhecimentos adquiridos ao longo do curso, tanto em front-end quanto em back-end. O trabalho foi desenvolvido pela equipe: <strong>Henrique Medeiros</strong>, <strong>Luana Reis</strong>, <strong>Thais Silveira</strong> e <strong>Yara Proença</strong>.</p>
 
-In the project directory, you can run:
+## Link de Acesso🔗
 
-### `npm start`
+https://cineone-resilia.netlify.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Página Inicial🏠
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p align='justify'>A página inicial foi desenvolvida pela integrante <strong>Henrique Medeiros</strong>, assim como o Header e o Footer utilizados e reaproveitados em todas as páginas do site. Esses componentes foram criados utilizando como base de referência os sites de cinema já existentes, buscando manter um padrão de qualidade já visto nesses exemplos.</p>
 
-### `npm test`
+<img src='./src/assets/readme_prints/InitialPageWeb.png'>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Programação🎥
 
-### `npm run build`
+<p align='justify'>A página contendo a programação do cinema, assim como tudo que a circunda, foi desenvolvida pela integrante <strong>Thais Silveira</strong>. Esses componentes foram criados de modo a permitir ao usuário a visualização da listagem de filmes do cinema, assim como os detalhes e horários de cada um, e permitir que sejam feitas reservas de assentos nas salas em que esses filmes estarão sendo exibidos.
+  
+### Lista de Filmes🎞️  
+<img src='./src/assets/readme_prints/Programation.png'>
+  
+### Detalhes e Horários⌚
+<img src='./src/assets/readme_prints/MovieDetails.png'>
+  
+### Reserva de Assentos🪑  
+<img src='./src/assets/readme_prints/MovieRoom.png'>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Bomboniere🍿
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align='justify'>A página de bomboniere foi desenvolvida pela integrante <strong>Luana Reis</strong>, pensando na possibilidade dos usuários optarem pela compra de lanches e acompanhamentos para os filmes através do próprio site.</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img src='./src/assets/readme_prints/Bomboniere.png'>
 
-### `npm run eject`
+## Unidades✈️
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align='justify'>Por fim, a última página a ser desenvolvida foi a de nossas unidades, desenvolvida pela integrante <strong>Yara Proença</strong>, na qual são apresentados os estados onde estão localizadas as filiais do CineOne.</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img src='./src/assets/readme_prints/OurUnities.png'>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Clonagem
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Caso queira utilizar o projeto para estudos ou testes em máquina local, basta efetuar uma clonagem do repositório na máquina desejada utilizando o comando:
+<br><br>
+`git clone https://github.com/Henrique-Git/reactCalculator`
+<br><br>
+Após abrir o projeto em um editor de código de sua preferência, basta executar o comando `npm install` para que todas as dependências utilizadas no projeto sejam instaladas e o site funcione corretamente.
+<br>
+Para conferir o funcionamento do programa, basta utilizar o comando `npm start`.
 
-## Learn More
+## Tecnologias Utilizadas💻
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+</ul>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Autores🤓
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<li><strong>Henrique Medeiros</strong></li>
+<a href="https://github.com/Henrique-Git" alt="Github" target="_blank">
+  <img src="https://img.shields.io/badge/-Github-black?style=static&labelColor=black&logo=github&logoColor=white&link=https://github.com/Henrique-Git">
+</a>
+<a href="https://www.linkedin.com/in/henrique-neves-medeiros/" alt="LinkedIn" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-blue?style=static&labelColor=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-neves-        medeiros/">  
+<a>
+<br>
+  
+<li><strong>Luana Reis</strong></li>
+<a href="https://github.com/reisluana" alt="Github" target="_blank">
+  <img src="https://img.shields.io/badge/-Github-black?style=static&labelColor=black&logo=github&logoColor=white&link=https://github.com/reisluana">
+</a>
+<a href="https://www.linkedin.com/in/reisluanag/" alt="LinkedIn" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-blue?style=static&labelColor=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/reisluanag/">  
+<a>
+<br>
+  
+<li><strong>Thais Silveira</strong></li>
+<a href="https://github.com/thaissilvr" alt="Github" target="_blank">
+  <img src="https://img.shields.io/badge/-Github-black?style=static&labelColor=black&logo=github&logoColor=white&link=https://github.com/thaissilvr">
+</a>
+<a href="https://www.linkedin.com/in/thaissilveira14/" alt="LinkedIn" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-blue?style=static&labelColor=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thaissilveira14/">  
+<a>
+<br>
+  
+<li><strong>Yara Proença</strong></li>
+<a href="https://github.com/YaraProenca" alt="Github" target="_blank">
+  <img src="https://img.shields.io/badge/-Github-black?style=static&labelColor=black&logo=github&logoColor=white&link=https://github.com/YaraProenca">
+</a>
+<a href="https://www.linkedin.com/in/yaraproenca/" alt="LinkedIn" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-blue?style=static&labelColor=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yaraproenca/">  
+<a>
